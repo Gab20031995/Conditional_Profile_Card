@@ -1,7 +1,11 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
 
+body {
+  background-image: url("https://devonblog.com/wp-content/uploads/2017/09/codeblauw.jpg");
+}
+
 .filters {
-  background: white;
+  background: rgb(0, 226, 215);
   width: 100%;
   li {
     display: inline-block;
